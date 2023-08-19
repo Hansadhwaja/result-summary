@@ -3,7 +3,7 @@
 - [Overview]
   (- ![Screenshot](./Screenshot 2023-08-19 002818.png)
   - [Links]
-   (- Live Site URL: [Add live site URL here](https://qr-code-silk-omega.vercel.app)))
+   (- Live Site URL: [Add live site URL here](https://result-summary-ochre.vercel.app)))
 
 - [My process]
   (- [Built with]
